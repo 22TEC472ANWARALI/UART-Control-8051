@@ -25,6 +25,4 @@ This project showcases UART communication on an 8051 microcontroller for control
 2. Upload the code to the 8051 microcontroller.
 3. Send commands via serial monitor to control the devices.
 
-## License
 
-Feel free to use this code for educational purposes.
